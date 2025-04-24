@@ -1,2 +1,2 @@
 # CS146
-## Machine learning
+### UCLA, machine learning
