@@ -1,1 +1,2 @@
-# Intro-ML
+# CS146
+## Machine learning
